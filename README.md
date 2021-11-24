@@ -5,15 +5,15 @@ Escribir por pantalla cada carácter de una cadena introducida por teclado.
 # Análisis del ejercicio
 
 Leemos una cadena y tenemos que recorrerla (necesito un bucle que vaya desde la
-posición 0 hasta la longitud de la cadena menos 1. En cada iteraci�n mostramos
-un car�cter (utilizamos la funci�n subcadena).
+posición 0 hasta la longitud de la cadena menos 1. En cada iteración mostramos
+un carácter (utilizamos la función subcadena).
 Datos de entrada:La cadena
-Informaci�n de salida: Cada uno de los caracteres de la cadena
+Información de salida: Cada uno de los caracteres de la cadena
 Variables: cad (caracter), posicion (entero)
 
 # Ejercicio 2
 
-Pide una cadena y un carácter por teclado (valida que sea un car�cter)
+Pide una cadena y un carácter por teclado (valida que sea un carácter)
 y muestra cuantas veces aparece el carácter en la cadena.
 
 # Análisis
@@ -56,7 +56,7 @@ Variables:num, suma, cont (enteros)
 
 # Ejercicio 5
 
-Algoritmo que muestre la tabla de multiplicar de los n�meros 1,2,3,4 y 5.
+Algoritmo que muestre la tabla de multiplicar de los números 1,2,3,4 y 5.
 
 # Análisis
 
