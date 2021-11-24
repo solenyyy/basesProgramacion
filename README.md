@@ -2,7 +2,7 @@
 
 Escribir por pantalla cada carácter de una cadena introducida por teclado.
 
-# Análisis del ejercicio
+## Análisis del ejercicio
 
 Leemos una cadena y tenemos que recorrerla (necesito un bucle que vaya desde la
 posición 0 hasta la longitud de la cadena menos 1. En cada iteración mostramos
@@ -16,7 +16,7 @@ Variables: cad (caracter), posicion (entero)
 Pide una cadena y un carácter por teclado (valida que sea un carácter)
 y muestra cuantas veces aparece el carácter en la cadena.
 
-# Análisis
+## Análisis
 
 Leo una cadena y un carácter (tengo que asegurarme que es un sólo carácter,
 es decir hasta que la longitud sea 1). Recorro la cadena y compara cada uno de
@@ -32,7 +32,7 @@ a continuación lo inicialice con valores aleatorios (del 1 al 10)
 y posteriormente muestre en pantalla cada elemento del vector junto con
 su cuadrado y su cubo.
 
-# Análisis
+## Análisis
 
 Recorro un vector de 10 enteros y lo inicializo con valoreas aleatorios.
 A continuación lo recorro para mostrar los valores, el cuadrado y el cubo.
@@ -45,7 +45,7 @@ Variables: vector_numeros (vector de 10 enteros)
 Algoritmo que pida números hasta que se introduzca un cero. Debe imprimir la suma
 y la media de todos los números introducidos.
 
-# Análisis
+## Análisis
 
 Vamos pidiendo números hasta introducir un 0.
 Necesitamos un acumulador para ir realizando las sumas intermedias.
@@ -58,7 +58,7 @@ Variables:num, suma, cont (enteros)
 
 Algoritmo que muestre la tabla de multiplicar de los números 1,2,3,4 y 5.
 
-# Análisis
+## Análisis
 
 Debo repetir 5 veces (desde el número 1 hasta el 5) mostrar
 la tabla de multiplicar de ese número.
